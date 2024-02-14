@@ -4,13 +4,13 @@ body {border-style: solid;}
     justify-content: center; 
     align-items: center;
     background:rgb(251, 139, 219) ; 
-    height: 100px; } 
+    height: 200px; } 
     
     .flex-item {
     margin: 5px;
     padding: 7px;
     background:rgb(189, 251, 139) ; 
-    height: 20x;
+    height: 25x;
     }
 
 h1 
