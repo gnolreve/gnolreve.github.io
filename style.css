@@ -4,6 +4,7 @@ body {border-style: solid;}
     justify-content: center; 
     align-items: center;
     background: rgb(255, 135, 181); 
+    border: 4px rgb(189, 251, 139) ; 
     height: 160px; } 
     
     .flex-item {
