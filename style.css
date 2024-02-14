@@ -4,7 +4,7 @@ body {border-style: solid;}
     justify-content: center; 
     align-items: center;
     background:rgb(251, 139, 219) ; 
-    height: 50px; } 
+    height: 100px; } 
     
     .flex-item {
     margin: 5px;
