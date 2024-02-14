@@ -3,8 +3,7 @@ body {border-style: solid;}
     display: flex;
     justify-content: center; 
     align-items: center;
-    background: rgb(255, 135, 181); 
-    border: 4px rgb(189, 251, 139) ; 
+    background: rgb(255, 135, 181);  
     height: 130px; } 
     
     .flex-item {
