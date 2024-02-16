@@ -4,7 +4,8 @@ body {border-style: solid;}
     justify-content: center; 
     align-items: center;
     background: rgb(255, 135, 181);  
-    height: 130px; } 
+    height: 130px; 
+    border-style: solid;} 
     
     .flex-item {
     margin: 5px;
@@ -12,6 +13,9 @@ body {border-style: solid;}
     background:rgb(189, 251, 139) ; 
     height: 50x;
     }
+
+body/
+    
 
 h1 
     {color: rgb(0, 3, 0);
