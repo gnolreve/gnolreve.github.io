@@ -3,7 +3,7 @@ body
     display: flex;
     justify-content: center; 
     align-items: center;
-    background:img src="unnamed.jpg" ;  
+    background: img src="unnamed.jpg"style="width:1000px;height:700px;"  ;  
     height: 130px; } 
     
     .flex-item {
