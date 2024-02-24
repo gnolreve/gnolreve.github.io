@@ -3,8 +3,9 @@ body
     display: flex;
     justify-content: center; 
     align-items: center;
-    background: rgb(102, 244, 77);  
-    height: 100px; } 
+    background:   
+    height: 100px;
+    border-style: solid; } 
     
     .flex-item {
     margin: 5px;
