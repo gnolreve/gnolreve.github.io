@@ -3,13 +3,13 @@ body
     display: flex;
     justify-content: center; 
     align-items: center;
-    background: rgb(255, 135, 181);  
+    background:img src="unnamed.jpg" ;  
     height: 130px; } 
     
     .flex-item {
     margin: 5px;
     padding: 7px;
-    background:rgb(189, 251, 139) ; 
+    background:rgb(1, 1, 1) ; 
     height: 50x;
     border-style: solid;}
 
@@ -21,11 +21,11 @@ h1
     font-size: 35px; 
     text-align: center;
     font-family: serif;}
-    h2 {color: rgb(189, 251, 139);
+    h2 {color: rgb(228, 11, 11);
         font-size: 20px; 
         text-align: center; 
         font-family: serif;}
-    h3 {color: rgb(255, 135, 181);
+    h3 {color: rgb(2, 0, 1);
         font-size: 16px; 
         text-align: center; 
         font-family: serif;}  
