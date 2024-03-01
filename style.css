@@ -1,23 +1,22 @@
-body
+body  
 .flex-container {
     display: flex;
     justify-content: center; 
-    align-items: center;
-    background: rgb(230, 8, 8) ;   
+    align-items: center;  
     height: 100x;
     border-style: solid;} 
     .flex-container img {
-        width: 100%;
+        width: 100x;
         height: auto;
       }
     
-    .flex-item {
-    margin: 5x;
-    align-items: center;
-    padding: 7x;
-    background:rgb(231, 5, 5) ; 
-    height: 50x;
-    border-style: solid}
+ .flex-item {
+ margin: 5x;
+ align-items: center;
+ padding: 7x;
+ background: rgb(245, 21, 9)  ; 
+ height: 50x;
+ border-style: solid}
     
     
     /* unvisited link */
