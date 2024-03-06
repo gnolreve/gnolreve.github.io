@@ -3,12 +3,14 @@ body
     display: flex;
     justify-content: center; 
     align-items: center;  
-    height: 100x;} 
+    height: 100x;
+    } 
 
 .link-container{ display: flex;
     justify-content: center;
     align-items: center;  
     height: 150x;
+
 }
     
  .flex-item {
@@ -16,9 +18,9 @@ body
  align-items: center;
  justify-content: center;
  padding: 7x;
- background: rgb(245, 21, 9)  ; 
- height: 25x;
-    border-style: solid}
+ background: rgb(251, 7, 3)  ; 
+ height: 25px;
+     }
     
     
     /* unvisited link */
