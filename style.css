@@ -3,20 +3,21 @@ body
     display: flex;
     justify-content: center; 
     align-items: center;  
-    height: 100x;
-    border-style: solid;} 
+    height: 100x;} 
 
-    .flex-container img {
-        width: 100x;
-        height: auto;
-      }
+.link-container{ display: flex;
+    justify-content: center;
+    align-items: center;  
+    height: 150x;
+}
     
  .flex-item {
- margin: 5x;
+ margin: 5px;
  align-items: center;
+ justify-content: center;
  padding: 7x;
  background: rgb(245, 21, 9)  ; 
- height: 50x;
+ height: 25x;
     border-style: solid}
     
     
@@ -60,7 +61,7 @@ h1
         text-align: center; 
         font-family: serif;}   
     
-        
+       
 
      
     
