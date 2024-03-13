@@ -20,8 +20,7 @@ body
  align-items: center;
  justify-content: center;
  padding: 7x;
- border: solid;
- background: rgb(245, 19, 7)  ; 
+ background: rgb(255, 255, 255)  ; 
  height: 50px;
      }
     
@@ -52,10 +51,10 @@ h1
     h3 {color:rgb(6, 6, 6);
         font-size: 16px; 
         text-align: center; 
-         font-family: 'Trebuchet MS', sans-serif;}  
-    h4 {color: rgb(1, 1, 1);
+        font-family: 'Trebuchet MS', sans-serif;} 
+      h4 {color: rgb(1, 1, 1);
         font-size: 16px; 
-        text-align: center; 
+          text-align: center; 
         font-family: 'Trebuchet MS', sans-serif;} 
     h5 {color: rgb(0, 0, 0);
         font-size: 25px; 
@@ -90,8 +89,23 @@ h1
 
    
        
-       
-       
+       .nextPrev{
+        text-align: center;
+        font-family: 'Trebuchet MS', sans-serif;
+        font-size: 20px
+       }
+        .previous {
+        
+            color: black;
+            font-family: 'Trebuchet MS', sans-serif;} 
+          
+          
+          .next {
+     
+            color: rgb(6, 6, 6);
+            font-family: 'Trebuchet MS', sans-serif;} 
+
+          
        
        
        
