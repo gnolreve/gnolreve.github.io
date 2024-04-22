@@ -72,7 +72,7 @@ h1
     h7 {color: rgb(3, 3, 3);
         font-size: 20px; 
         text-align: center; 
-
+        font-size: clamp(12px, 5vw, 20px);
         font-family: 'Trebuchet MS', sans-serif;}  
  
 
