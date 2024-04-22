@@ -1,9 +1,12 @@
 body  
+
 .flex-container {
+    width: min(100%, 500px);
     font-family: 'Trebuchet MS', sans-serif;
     display: flex;
     justify-content: center; 
     align-items: center;  
+    font-size: clamp(12px, 5vw, 20px);
     height: 100x;
     } 
 
@@ -13,7 +16,6 @@ body
     height: 150x;
     
 }
-    
  .flex-item {
     font-family: 'Trebuchet MS', sans-serif;
  margin: 5px;
@@ -22,6 +24,7 @@ body
  padding: 7x;
  background: rgb(255, 255, 255)  ; 
  height: 50px;
+ font-size: clamp(12px, 5vw, 20px);
      }
     
     
@@ -31,9 +34,9 @@ body
             /* visited link */
      a:visited {
         color: rgb(5, 5, 5);}
-   
+      
 
-
+     
 
 
 
@@ -41,7 +44,7 @@ h1
     {color: rgb(0, 3, 0);
     font-size: 35px; 
     text-align: center;
-    
+    font-size: clamp(12px, 5vw, 20px);
     font-family: 'Trebuchet MS', sans-serif;}
     h2 {color: rgb(250, 3, 3);
         font-size: 20px; 
@@ -71,48 +74,8 @@ h1
         text-align: center; 
 
         font-family: 'Trebuchet MS', sans-serif;}  
-    
-       /* Style the navigation menu */
-.topnav {
-    overflow: hidden;
-    background-color: #333;
-    position: relative;
-  }
-  
-  /* Hide the links inside the navigation menu (except for logo/home) */
-  .topnav #myLinks {
-    display: none;
-  }
-  
-  /* Style navigation menu links */
-  .topnav a {
-    color: white;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    display: block;
-  }
-  
-  
-  .topnav a.icon {
-    background: black;
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  
-  /* Add a grey background color on mouse-over */
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  /* Style the active link (or home/logo) */
-  .active {
-    background-color: #04AA6D;
-    color: white;
-  }
+ 
+
 
      
     
