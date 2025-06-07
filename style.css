@@ -28,10 +28,10 @@ body
      }
     
     
-    /* unvisited link */
+  
      a:link {
             color: rgb(1, 1, 1);}
-            /* visited link */
+         
      a:visited {
         color: rgb(5, 5, 5);}
       
